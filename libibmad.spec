@@ -1,12 +1,12 @@
 Summary:	OpenFabrics Alliance InfiniBand MAD library
 Summary(pl.UTF-8):	Biblioteka OpenFabrics Alliance InfiniBand MAD
 Name:		libibmad
-Version:	1.3.6
+Version:	1.3.7
 Release:	1
 License:	BSD or GPL v2
 Group:		Libraries
 Source0:	http://www.openfabrics.org/downloads/management/%{name}-%{version}.tar.gz
-# Source0-md5:	a1d04520f9d77713a021e4d6af099383
+# Source0-md5:	c2755aa360d3f29d04865ba4e2454a98
 URL:		http://www.openfabrics.org/
 BuildRequires:	libibumad-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
