@@ -1,4 +1,4 @@
-# NOTE for versions >= 2.0.0 see infiniband-diags.spec
+# NOTE: for versions >= 2.0.0 see infiniband-diags.spec, for > 2.1.0 see rdma-core.spec
 Summary:	OpenFabrics Alliance InfiniBand MAD library
 Summary(pl.UTF-8):	Biblioteka OpenFabrics Alliance InfiniBand MAD
 Name:		libibmad
